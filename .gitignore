@@ -1,0 +1,11 @@
+# STM32CubeIDE & TrueSTUDIO
+.settings/
+.metadata/
+Debug/
+Release/
+*.launch
+*.elf
+*.bin
+*.hex
+*.map
+*.o
